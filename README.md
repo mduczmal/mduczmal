@@ -1,4 +1,8 @@
-### Hi! Check my profiles 👇
+## Hi!
+
+💬 Have a question about Kotlin or data quality? Reach out to me on LinkedIn!
+
+### Check my profiles 👇
 
 [LinkedIn](https://www.linkedin.com/in/mikolaj-duczmal)
 
