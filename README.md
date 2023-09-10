@@ -1,6 +1,6 @@
 ## Hi!
 
-💬 Have a question about Kotlin or data quality? Reach out to me on LinkedIn!
+💬 Want to have a chat about observability or Kotlin? Reach out to me on LinkedIn!
 
 ### Check my profiles 👇
 
